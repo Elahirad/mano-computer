@@ -3,8 +3,8 @@
 Mano Basic Computer implemented in Proteus for Computer System Architecture Course
 
 **Notes :**
-- Use Prtoeus 8.15.
-- Decription Video : https://iutbox.iut.ac.ir/index.php/s/fMaqPyYA3c2M7Nf
+- Use Proteus 8.15.
+- Description Video : https://iutbox.iut.ac.ir/index.php/s/fMaqPyYA3c2M7Nf
 - Instructions are included in Instructions.png file.
 
 
